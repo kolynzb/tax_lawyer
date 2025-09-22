@@ -11,11 +11,3 @@ https://github.dev/culture-dao/chainlit-template
 https://medium.com/mitb-for-all/its-2025-take-your-llm-apps-to-the-next-level-with-chainlit-00036c8db1ba
 
 
-```sh
-chainlit==2.8.0
-google-genai==1.38.0
-asyncpg==0.30.0
-
-
-
-```

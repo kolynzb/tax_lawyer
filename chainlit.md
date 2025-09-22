@@ -11,7 +11,7 @@ You can use it to:
 ---
 
 ## How to Access
-1. Open the web link we give you (e.g., **https://taxlawyer.co.ug**).
+1. Open the web link we give you (e.g., **https://taxlawyer.craqt.com**).
 2. Click **Continue with Google**.
    - Use your work or personal Google account.
    - If your firm restricts access, you may need to use your work email.
@@ -23,7 +23,7 @@ You can use it to:
 - **Your chats are saved.** You can come back later and resume where you left off.
 - **Be specific.** Mention the tax (VAT, PAYE, Income Tax) and year or section you care about.
 - **Verify outputs.** This is a **drafting tool**, not legal advice. Always check final answers against the law before sending to clients.
-- **Give feedback.** Use the 👍 or 👎 on replies to tell us if the answer was helpful.
+- **Give feedback.** Use the 👍 or 👎 on replies to tell us if the answer was helpful. or [CLICK ME TO GIVE FEEDBACK](https://forms.gle/mE8CqtMDmxwxv7H86)
 
 ---
 
