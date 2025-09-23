@@ -29,8 +29,9 @@ SYSTEM_PROMPT = (
 MODEL_NAME = "gemini-1.5-pro"  # or gemini-1.5-flash for faster/lower-cost replies
 
 UG_FILTER = (
-    "site:ura.go.ug OR site:finance.go.ug OR site:parliament.go.ug "
+    "site:ura.go.ug OR site:finance.go.ug OR site:parliament.go.ug"
     "OR site:law.africa OR site:ulii.org OR site:gazettes.africa"
+    "OR site:ulrc.go.ug OR site:ugandalaws.com OR site:ulrc.go.ug"
 )
 
 async def brave_search(query: str, k: int = 6):
