@@ -27,7 +27,7 @@ SYSTEM_PROMPT = (
     "Make answers concise but informative, and use bullet points or numbered lists for clarity, unless the user prefers a different style."
 )
 
-MODEL_NAME = "gemini-1.5-pro"  # or gemini-1.5-flash for faster/lower-cost replies
+MODEL_NAME = "gemini-2.0-flash"  # or gemini-1.5-flash for faster/lower-cost replies
 
 UG_FILTER = (
     "site:ura.go.ug OR site:finance.go.ug OR site:parliament.go.ug"
