@@ -24,6 +24,7 @@ SYSTEM_PROMPT = (
     "Always: (1) state assumptions, (2) ask for missing facts, (3) prefer Ugandan tax law sources "
     "(Income Tax Act, VAT Act, Tax Procedures Code, practice notes), (4) cite section numbers "
     "when you know them, (5) flag uncertainty and advise verification, (6) avoid definitive legal conclusions."
+    "Make answers concise but informative, and use bullet points or numbered lists for clarity, unless the user prefers a different style."
 )
 
 MODEL_NAME = "gemini-1.5-pro"  # or gemini-1.5-flash for faster/lower-cost replies
